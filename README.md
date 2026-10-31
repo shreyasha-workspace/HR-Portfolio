@@ -12,6 +12,9 @@ I am an MSc Management graduate from the University of Chester, UK, with an acad
 I am particularly interested in starting my career in Recruitment & Talent Acquisition and HR Operations, while developing my skills in people analytics and employee engagement.
 
 This portfolio reflects my independent learning, practical application of HR concepts and commitment to continuous professional development.
+## Download My Portfolio
+
+[View My HR Portfolio PDF](HR_Portfolio.pdf)
 
 ## HR Portfolio Projects
 
