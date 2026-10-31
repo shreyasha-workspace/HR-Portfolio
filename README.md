@@ -14,7 +14,7 @@ I am particularly interested in starting my career in Recruitment & Talent Acqui
 This portfolio reflects my independent learning, practical application of HR concepts and commitment to continuous professional development.
 ## Download My Portfolio
 
-[View My HR Portfolio PDF](HR_Portfolio.pdf)
+[View My HR Portfolio PDF](./HR%20%26%20People%20Operations%20Portfolio%20%281%29.pdf)
 
 ## HR Portfolio Projects
 
